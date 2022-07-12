@@ -1,0 +1,11 @@
+.cproject
+.project
+.settings/
+obj
+out
+openocd.log
+tools/irloader_panel/*.pro.user
+tools/irloader_panel/Makefile
+tools/build-*
+STM32Cube_*
+ugfx_*
